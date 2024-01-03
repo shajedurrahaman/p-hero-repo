@@ -1,6 +1,5 @@
-h1 {
-    background-color: blueviolet;
-}
-p {
-    background-color: burlywood;
+div {
+    background-color: orange;
+    padding: 10px;
+    margin-bottom: 10px;
 }
